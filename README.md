@@ -1,6 +1,17 @@
 # signupin
 
-A new Flutter project.
+A SignIn & SignUp Flutter Page where user can login with validation.
+
+# What I Learned
+* Dart Language
+* Flutter
+* Validation
+* Calender
+* Eye button
+* Reusable Widget
+* UI/UX Design
+
+## Note: I am providing image of all screen in repo.
 
 ## Getting Started
 
